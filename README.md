@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @DionisisAthanasiadis
-- 👀 I’m interested in web development front-end
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 📫 How to reach me LinkedIn profile, Dionisis Athanasiadis
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love combining my passion for technology with my interest in design, and I'm always up for a good coding challenge!
-  
 - # 👋 Hi, I'm Dionisis Athanasiadis!
 
+## 👨‍💻 About Me:
+- I’m interested in web development front-end
+  
 ## 🌱 Currently learning:
 - JavaScript
 - HTML5
