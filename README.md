@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📫 Reach me:
-- [LinkedIn](https://www.linkedin.com/in/dionisisathanasiadis)
+- [LinkedIn](https://www.linkedin.com/in/DionisisAthanasiadis)
 
 ## 🔥 Fun Fact:
 I love combining technology and design, always up for a coding challenge!
