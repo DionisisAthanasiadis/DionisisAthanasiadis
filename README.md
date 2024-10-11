@@ -1,7 +1,7 @@
 ![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
 <h1 align="center">Hi 👋, I'm Dionisis Athanasiadis</h1>
 <h3 align="center">A passionate Front-End Developer from Greece</h3>
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dionisisathanasiadis&label=Profile%20views&color=0e75b6&style=flat" alt="dionisisathanasiadis" /> </p>
